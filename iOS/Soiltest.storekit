@@ -1,0 +1,42 @@
+{
+  "identifier": "soiltest",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Soiltest Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "soiltest_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks amendment history and trend graphs across tests.",
+              "displayName": "Soiltest Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "soiltest_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Soiltest Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
